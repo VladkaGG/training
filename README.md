@@ -1,2 +1,2 @@
 # training
-Some project just for train program scills
+Some project just totrain program scills
