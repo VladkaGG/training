@@ -1,2 +1,2 @@
-# training
-Some project just totrain program skills
+# design patterns
+For study design patterns and understanding of ways to use it.
